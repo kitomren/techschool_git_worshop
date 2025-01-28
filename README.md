@@ -4,3 +4,4 @@
 
 ## Hopefully fun and interesting
 this text was edited in the browser at github.com
+added some Norwegian special characters æøåÆØÅ
